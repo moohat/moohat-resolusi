@@ -1,0 +1,3 @@
+RENCANA PUBLISH APK
+- publish apk react native ke playstore
+- create more app
