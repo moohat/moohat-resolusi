@@ -3,3 +3,4 @@ moohat resolusi 2020
 - membuat aplikasi dengan react native
 - develop aplikasi dengan team
 - menjadi team yang solid
+- kolaborasi dengan expert
