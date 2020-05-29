@@ -1,0 +1,5 @@
+moohat resolusi 2020
+- menjadi programmer profesional
+- membuat aplikasi dengan react native
+- develop aplikasi dengan team
+- menjadi team yang solid
