@@ -1,6 +1,8 @@
 RENCANA PUBLISH APK
 - publish apk react native ke playstore
 * membuat aplikasi kisah 25 nabi
+==> framework react native
+==> database using fire base
 * membuat aplikasi menu masak
 * membuat aplikasi ojek online
 - create more app
